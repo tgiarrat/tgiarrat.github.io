@@ -12,8 +12,11 @@
 
 - to change your preferred news sources navigate to the options menu again
 
-![Alt Text](/305AppScans/Capture5.PNG?raw=true) ![Alt Text](/305AppScans/Capture6.PNG?raw=true)
+![Alt Text](/305AppScans/Capture4.PNG?raw=true) ![Alt Text](/305AppScans/Capture5.PNG?raw=true)
 
+- To remove news sources (for now) simply select the x on each of the news cards
+
+![Alt Text](/305AppScans/Capture6.PNG?raw=true)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
