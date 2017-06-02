@@ -24,6 +24,6 @@ This app is intended to put all of the information that i check daily into one s
 
 ### Current Class Diagram
 
-![Alt Text](/305AppScans/Diagram.PNG?raw=true)
+![Alt Text](https://tgiarrat.github.io/305AppScans/diagram.png)
 
 
