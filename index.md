@@ -1,5 +1,5 @@
 ## Daily Hub Application
- **__By Thomas Giarratana__**
+ **_By Thomas Giarratana_**
 
 ### Basic Application Flow
 - When the user first opens the application they will only see the default weather card (San Luis Obispo) 
