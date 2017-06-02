@@ -20,6 +20,7 @@
 
 ### Current Class Diagram
 
+![Alt Text](/305AppScans/Capture6.PNG?raw=true)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
