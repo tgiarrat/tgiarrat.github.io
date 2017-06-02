@@ -1,6 +1,10 @@
 ## Daily Hub Application
  **_By Thomas Giarratana_**
 
+### Overview
+
+This app is intended to put all of the information that i check daily into one simple to use place. Currently, the basic idea behind the app works. The user is able to view weather and thier preferred selection of news sources. However, I was unable to meet my original scope where I hoped for charts, stocks, and possibly grades to be present. While I wasnt able to meet my intended scope I feel what the functionality that is present works basically as I envisioned it. 
+
 ### Basic Application Flow
 - When the user first opens the application they will only see the default weather card (San Luis Obispo) 
 
@@ -20,15 +24,6 @@
 
 ### Current Class Diagram
 
-![Alt Text](/305AppScans/Capture6.PNG?raw=true)
+![Alt Text](/305AppScans/diagram.PNG?raw=true)
 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tgiarrat/tgiarrat.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
