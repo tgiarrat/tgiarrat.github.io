@@ -3,7 +3,7 @@
 
 ### Basic Application Flow
 - When the user first opens the application they will only see the default weather card (San Luis Obispo)
-![Image](~/305AppScans/Capture.png)
+![Image](tgiarrat.github.io/305AppScans/Capture.PNG)
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
