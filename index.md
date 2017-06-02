@@ -8,7 +8,7 @@
 
 - To change weather location or news sources navigate to the options menu in the top right
 
-![Alt Text](/305AppScans/Capture2.PNG?raw=true)
+![Alt Text](/305AppScans/Capture2.PNG?raw=true) ![Alt Text](/305AppScans/Capture3.PNG?raw=true) 
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
