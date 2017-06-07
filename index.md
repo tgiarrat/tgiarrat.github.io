@@ -29,9 +29,9 @@
   - While I made some mistakes I am still happy with what I have made
     + I still like the idea of putting all these news stories together 
     + I am mostly happy with the simplicity of the application
-  - Going through the growing pains of learning android did pay off
-    + A lot was learned from my struggles
-      - AsyncTask!!!!!!!!
+    + Going through the growing pains of learning android did pay off
+      x A lot was learned from my struggles
+        - AsyncTask!!!!!!!!
   - Biggest lesson: START EARLY
     + Otherwise you start accumulating technical debt from the start and it just makes your life all around harder.
  
