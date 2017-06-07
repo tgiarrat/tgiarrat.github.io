@@ -20,7 +20,9 @@
   - The strategy pattern is used with Fetch where the different strategies are the different apis that I am useing
   - The singleton pattern is used with SourceSelection where only one class is needed for it
   - Overall, I might serve as a great example of what happens when you dont design very well...
-    + Due to a mixture of procrastination and difficulties learning android, I had difficulties making progress on code while still maintaining good software quality and correctly implementing design patterns
+    + Due to a mixture of procrastination and difficulties learning android, I had problems making sufficient progress on code while still maintaining good software quality and correctly implementing design patterns
+    + I ended up producing code that only just worked and did so in a narrow focus
+    + this resulted in an overall design that was not very modular and difficult to work with 
 
 ### Basic Application Flow
 - When the user first opens the application they will only see the default weather card (San Luis Obispo) 
