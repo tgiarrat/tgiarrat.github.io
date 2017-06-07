@@ -43,19 +43,19 @@
 ### Basic Application Flow
 - When the user first opens the application they will only see the default weather card (San Luis Obispo) 
 
-![Alt Text](/305AppScans/Capture.PNG?raw=true)
+![Alt Text](/305AppScans/NewCapture.PNG?raw=true)
 
 - To change weather location navigate to the options menu in the top right
 
-![Alt Text](/305AppScans/Capture2.PNG?raw=true)![Alt Text](/305AppScans/Capture3.PNG?raw=true) 
+![Alt Text](/305AppScans/NewCapture2.PNG?raw=true)
 
 - to change your preferred news sources navigate to the options menu again
 
-![Alt Text](/305AppScans/Capture4.PNG?raw=true) ![Alt Text](/305AppScans/Capture5.PNG?raw=true)
+![Alt Text](/305AppScans/NewCapture4.PNG?raw=true) ![Alt Text](/305AppScans/NewCapture5.PNG?raw=true)
 
 - To remove news sources (for now) simply select the x on each of the news cards
 
-![Alt Text](/305AppScans/Capture6.PNG?raw=true)
+![Alt Text](/305AppScans/NewCapture6.PNG?raw=true)
 
 
 
