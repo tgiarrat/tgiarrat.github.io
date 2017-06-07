@@ -19,8 +19,11 @@
   - The singleton pattern is used with SourceSelection where only one class is needed for it
   - Overall, I might serve as a great example of what happens when you dont design very well...
     + Due to a mixture of procrastination and difficulties learning android, I had problems making sufficient progress on code while still maintaining good software quality and correctly implementing design patterns
-    + I ended up producing code that only just worked and did so in a narrow focus
-    + this resulted in an overall design that was not very modular and difficult to work with 
+    + I ended up producing code that only just worked and did so in a narrow focus and was not layered 
+  - To everyones suprise it turns out that a poorly thought out design leads to code that is:
+    + More difficult to test
+    + More difficult to modify
+    + more difficult to understand
     
 ### Thoughts on the project
   - While I made some mistakes I am still happy with what I have made
@@ -29,6 +32,8 @@
   - Going through the growing pains of learning android did pay off
     + A lot was learned from my struggles
       - AsyncTask!!!!!!!!
+  - Biggest lesson: START EARLY
+    + Otherwise you start accumulating technical debt from the start and it just makes your life all around harder.
  
 
 ### Current Class Diagram
