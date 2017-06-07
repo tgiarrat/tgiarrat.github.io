@@ -26,7 +26,7 @@
     
 ### Current Class Diagram
 
-![Alt Text](https://tgiarrat.github.io/305AppScans/diagram (2).png)
+![Alt Text](https://tgiarrat.github.io/305AppScans/diagram.png)
 
 ### Basic Application Flow
 - When the user first opens the application they will only see the default weather card (San Luis Obispo) 
