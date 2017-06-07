@@ -23,6 +23,10 @@
     + Due to a mixture of procrastination and difficulties learning android, I had problems making sufficient progress on code while still maintaining good software quality and correctly implementing design patterns
     + I ended up producing code that only just worked and did so in a narrow focus
     + this resulted in an overall design that was not very modular and difficult to work with 
+    
+### Current Class Diagram
+
+![Alt Text](https://tgiarrat.github.io/305AppScans/diagram (2).png)
 
 ### Basic Application Flow
 - When the user first opens the application they will only see the default weather card (San Luis Obispo) 
@@ -41,9 +45,7 @@
 
 ![Alt Text](/305AppScans/Capture6.PNG?raw=true)
 
-### Current Class Diagram
 
-![Alt Text](https://tgiarrat.github.io/305AppScans/diagram.png)
 
 
 ### Thoughts
