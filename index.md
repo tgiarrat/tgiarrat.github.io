@@ -57,14 +57,9 @@
 
 ![Alt Text](/305AppScans/Capture6.PNG?raw=true)
 
-### Current Class Diagram
-
-![Alt Text](https://tgiarrat.github.io/305AppScans/diagram.png)
 
 
-### Thoughts
 
-If I were to go back in time I would probably just slap myself for deciding to focus on android development for tihs class. With all of the stuff we already had to learn and use for this class, learning android on top of that was a bad bad idea. I focused too much time on getting basic android stuff working and little consideration  was then put into design (I ended up going with whatever barely working cobbled togethere solution I could make). 
 
 
 
