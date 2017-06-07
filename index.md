@@ -7,8 +7,6 @@
 **Purpose**
 - The idea behind this project is to consolidate useful information from multiple sources that I check fairly often and present each of them well within a single app.
 
-### Details
-
 **Functionality**: 
   - View weather and News
   - Change Location of weather data
@@ -24,6 +22,15 @@
     + I ended up producing code that only just worked and did so in a narrow focus
     + this resulted in an overall design that was not very modular and difficult to work with 
     
+### Thoughts on the project
+  - While I made some mistakes I am still happy with what I have made
+    + I still like the idea of putting all these news stories together 
+    + I am mostly happy with the simplicity of the application
+  - Going through the growing pains of learning android did pay off
+    + A lot was learned from my struggles
+      - AsyncTask!!!!!!!!
+ 
+
 ### Current Class Diagram
 
 ![Alt Text](https://tgiarrat.github.io/305AppScans/diagram.png)
@@ -45,7 +52,9 @@
 
 ![Alt Text](/305AppScans/Capture6.PNG?raw=true)
 
+### Current Class Diagram
 
+![Alt Text](https://tgiarrat.github.io/305AppScans/diagram.png)
 
 
 ### Thoughts
