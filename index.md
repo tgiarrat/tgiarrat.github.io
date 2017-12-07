@@ -2,10 +2,8 @@
 ## Roasty Toasty
  **_By Thomas Giarratana_**
 
-### Overview
-
-**Ide**
-- The idea behind my project was to create a cozy scene where the user roasts AND toasts marshmallows by a campfire. 
+**Idea**
+- The idea behind my project was to create a cozy scene where the user roasts AND toasts marshmallows by a campfire.
 
 **Features of the project**: 
   - Model a fire using particles
@@ -15,29 +13,13 @@
   - Textured objects
   - Skybox
   
-**Design**
-  - The strategy pattern is used with Fetch where the different strategies are the different apis that I am useing
-  - The singleton pattern is used with SourceSelection where only one class is needed for it
-  - Overall, I might serve as a great example of what happens when you dont design very well...
-    + Due to a mixture of procrastination and difficulties learning android, I had problems making sufficient progress on code while still maintaining good software quality and correctly implementing design patterns
-    + I ended up producing code that only just worked and did so in a narrow focus and was not layered 
-  - To everyones suprise it turns out that a poorly thought out design leads to code that is:
-    + More difficult to test
-    + More difficult to modify
-    + more difficult to understand
-    
-### Thoughts on the project
-  - While I made some mistakes I am still happy with what I have made
-    + I still like the idea of putting all these news stories together 
-    + I am mostly happy with the simplicity of the application
-    + Going through the growing pains of learning android did pay off
-      x A lot was learned from my struggles
-        - AsyncTask!!!!!!!!
-  - Biggest lesson: START EARLY
-    + Otherwise you start accumulating technical debt from the start and it just makes your life all around harder.
- 
+**Controls / Rules**
+  - WASD + mouse to move the camera
+  - space to reset the marshmallow
+  - Camera must be within a sort distance of the fire to roast the marshmallow
 
-### Current Class Diagram
+
+### Images
 
 ![Alt Text](https://tgiarrat.github.io/305AppScans/diagram.png)
 
