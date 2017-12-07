@@ -24,19 +24,18 @@
 ![Alt Text](https://tgiarrat.github.io/305AppScans/cozy.png)
 - Basic view of the area with the fire
 
-![Alt Text](/305AppScans/toast.png?raw=true)
+![Alt Text](/305AppScans/toasted.png?raw=true)
 
-- To change weather location navigate to the options menu in the top right
+- Marshmallow as it is being toasted
 
-![Alt Text](/305AppScans/NewCapture2.PNG?raw=true)
+![Alt Text](/305AppScans/burnt.png?raw=true)
 
-- to change your preferred news sources navigate to the options menu again
+- The marshmallow after being burnt
 
-![Alt Text](/305AppScans/NewCapture4.PNG?raw=true) ![Alt Text](/305AppScans/NewCapture5.PNG?raw=true)
+![Alt Text](/305AppScans/skybox.png?raw=true)
 
-- To remove news sources (for now) simply select the x on each of the news cards
+- A view of the wonderfully implemented skybox
 
-![Alt Text](/305AppScans/NewCapture6.PNG?raw=true)
 
 
 
