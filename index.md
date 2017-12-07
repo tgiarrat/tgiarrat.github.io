@@ -21,10 +21,8 @@
 
 ### Images
 
-![Alt Text](https://tgiarrat.github.io/305AppScans/diagram.png)
-
-### Basic Application Flow
-- When the user first opens the application they will only see the default weather card (San Luis Obispo) 
+![Alt Text](https://tgiarrat.github.io/305AppScans/cozy.png)
+- Basic view of the area with the fire
 
 ![Alt Text](/305AppScans/NewCapture.PNG?raw=true)
 
