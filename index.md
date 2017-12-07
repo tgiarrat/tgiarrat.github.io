@@ -4,16 +4,17 @@
 
 ### Overview
 
-**Purpose**
-- The idea behind this project is to consolidate useful information from multiple sources that I check fairly often and present each of them well within a single app.
+**Ide**
+- The idea behind my project was to create a cozy scene where the user roasts AND toasts marshmallows by a campfire. 
 
-**Functionality**: 
-  - View weather and News
-  - Change Location of weather data
-  - Edit preferred News Sources
-  - Filtering news stories was only partially completed. I have been able to do the basic logic behind it but have run into many problems
-    + To show a simple example of what I was going for I hardcoded an an easy one button filter 
-
+**Features of the project**: 
+  - Model a fire using particles
+  - First person view of a marshmallow on a stick that follows the cameras movements
+  - Changing the texture of the marshmallow over time as it gets roasted
+  - Camera movement
+  - Textured objects
+  - Skybox
+  
 **Design**
   - The strategy pattern is used with Fetch where the different strategies are the different apis that I am useing
   - The singleton pattern is used with SourceSelection where only one class is needed for it
