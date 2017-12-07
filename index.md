@@ -12,7 +12,7 @@
     + The texure I used for the roasting or the marshmallow over time:
     
     ![Alt Text](/305AppScans/bnithpqx.png?raw=true)
-    + I attempted to texture the marshmallow with a single stip ove the texture over time. It didnt exactly come out how I hoped but... ¯\_(ツ)_/¯
+    + I attempted to texture the marshmallow with a single stip ove the texture over time. It didnt exactly come out how I hoped but... ¯\\_(ツ)_/¯
   - Camera movement
   - Textured objects
   - Skybox
