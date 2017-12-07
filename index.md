@@ -10,8 +10,9 @@
   - First person view of a marshmallow on a stick that follows the cameras movements
   - Changing the texture of the marshmallow over time as it gets roasted
     + The texure I used for the roasting or the marshmallow over time:
+    
     ![Alt Text](/305AppScans/bnithpqx.png?raw=true)
-    + It didnt exactly come out how I hoped but it turned out alright
+    + I attempted to texture the marshmallow with a single stip ove the texture over time. It didnt exactly come out how I hoped but... ¯\_(ツ)_/¯
   - Camera movement
   - Textured objects
   - Skybox
