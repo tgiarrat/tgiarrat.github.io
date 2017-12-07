@@ -24,7 +24,7 @@
 ![Alt Text](https://tgiarrat.github.io/305AppScans/cozy.png)
 - Basic view of the area with the fire
 
-![Alt Text](/305AppScans/NewCapture.PNG?raw=true)
+![Alt Text](/305AppScans/toast.png?raw=true)
 
 - To change weather location navigate to the options menu in the top right
 
